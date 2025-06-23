@@ -86,13 +86,6 @@ Almost Here is a secure, privacy-focused mobile messaging application designed t
      ```
    - Scan the QR code with the Expo Go app on your iOS/Android device or run in an emulator.
 
-4. **Optional: Run with Docker**:
-
-   - Build and start containers:
-
-     ```bash
-     docker-compose up --build
-     ```
 
 ### Usage
 
