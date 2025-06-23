@@ -103,7 +103,7 @@ Almost Here is a secure, privacy-focused mobile messaging application designed t
 Almost Here prioritizes security. If you discover a vulnerability:
 
 - Do not disclose it publicly.
-- Email the maintainer directly at \[your-email@example.com\] with details.
+- Email the maintainer directly at gebremeskelshimels@gmail.com with details.
 - We’ll acknowledge and address the issue promptly.
 
 ## Contact
