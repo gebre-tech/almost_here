@@ -57,14 +57,7 @@ Almost Here is a secure, privacy-focused mobile messaging application designed t
      ```bash
      pip install -r message/requirements.txt
      ```
-   - Configure environment variables by creating a `.env` file in the `message/` directory:
 
-     ```env
-     DATABASE_URL=postgresql://user:password@localhost:5432/almost_here
-     REDIS_URL=redis://localhost:6379/0
-     SECRET_KEY=your_django_secret_key
-     NOISE_PROTOCOL_CONFIG=Noise_XK_25519_ChaChaPoly_BLAKE2s
-     ```
    - Apply database migrations:
 
      ```bash
