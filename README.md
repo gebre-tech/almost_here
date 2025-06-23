@@ -1,4 +1,4 @@
-# Secured Message App for Local users
+# Secured Message App for our Country users
 
 ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
 
