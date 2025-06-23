@@ -1,6 +1,8 @@
 # Almost Here
 
-![Project Status](https://img.shields.io/badge/status-in%20development-orange)## Overview
+![Project Status](https://img.shields.io/badge/status-in%20development-orange)
+
+## Overview
 
 Almost Here is a secure, privacy-focused mobile messaging application designed to provide robust end-to-end (E2E) encryption, forward secrecy, and advanced cryptographic security using the Noise Protocol Framework. Built for modern mobile users, it ensures secure, real-time communication with a seamless user experience. The backend leverages Django, PostgreSQL, Redis, and Django Channels for high-performance WebSocket-based messaging, while the frontend is developed using React Native with Expo for cross-platform compatibility.
 
